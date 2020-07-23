@@ -1,0 +1,41 @@
+body {
+    background-color: #a2d3d3;
+    width: 80%;
+    margin: auto 0;
+    padding: 50px;
+}
+
+img  {
+    background-color: #cc0066; 
+    border-radius: 20%;
+    border: 5px solid #ffcc00; 
+    height: 250px;
+    width: 250px;
+}
+img:hover  {
+    background-color:  #fd3c3c;
+    border-radius: 0%;
+    border: 5px solid #cc0066;
+    height: 250px;
+    width: 250px;
+}
+
+
+
+h1 {
+    color: #cc0066;
+    letter-spacing: 0.2rem;
+
+}
+
+h1:hover {
+    color: #1acf1a; 
+    letter-spacing: 1.5rem;
+    font-size: 50px;
+
+}
+
+p {
+    color: #fd3c3c;
+    font-weight: bold;
+}
